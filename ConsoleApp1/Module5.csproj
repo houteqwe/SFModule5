@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Task1.MainClass</StartupObject>
+    <StartupObject>Module5.Unit_2.MainClass</StartupObject>
   </PropertyGroup>
 
 </Project>
