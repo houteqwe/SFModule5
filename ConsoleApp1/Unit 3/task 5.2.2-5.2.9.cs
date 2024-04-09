@@ -11,7 +11,7 @@ class MainClass
 
     static string ShowColor(string username, int userage)
     {
-        Console.WriteLine("{0}, напишите свой любимый цвет на английском с маленькой буквы", username);
+        Console.WriteLine("{0}, {1} лет \nНапишите свой любимый цвет на английском с маленькой буквы", username, userage);
         string color = Console.ReadLine();
 
 
